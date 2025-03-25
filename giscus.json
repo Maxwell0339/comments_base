@@ -1,3 +1,5 @@
 {
   "defaultCommentOrder": "newest"
+  "origins": ["https://maxwell0339.github.io/"],
+  "originsRegex": ["http://localhost:[0-9]+"]
 }
